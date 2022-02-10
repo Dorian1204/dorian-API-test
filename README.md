@@ -1,4 +1,15 @@
-# dorian-API-test
+Api test repo created.
+Here is a local change.
+This is Alex, adding in my change...
+Hello world, Josh here.
 
-This git repositary will save the code that we have done from the class
-this would be the example and everything that is done is to test with automatic testing program to check for us when the programs get broken.
+
+Hi there!
+/*Write summary*/
+
+
+Josh- Are we suppose to use branches or will they slow us down?
+
+We need to create them then delete them after we use them. I believe that is what Brother Murdock was saying on the last meeting. -Dorian
+
+Would we be able to push everything through the VS and then clone it to the Console Cloud for Google?
